@@ -17,12 +17,16 @@
 ## Telescopes
 * AT102ED = 714mm f/7
 * AT70ED = 420mm f/6
+* Pentax SP 10x50 WP
+* Nikon Trailblazer 8x42
 
 ## Math
 * Mag = FLmm / EPmm
 * FOV = EP apparent FOV / Mag
 
-9/25/2024
+## Observation Log
+
+### 9/25/2024
 * AT102ED + 15mm DeLite
 * Psi Aquilae
 * NGC 6882
@@ -30,13 +34,13 @@
 * M71 barely
 * Saturn, Titan, Rhea, and (Tethys or Dione)
 
-9/24/2024
+### 9/24/2024
 * AT102ED + 15mm DeLite
 * NGC 6882
 * M27
 * Saturn, Titan, and Rhea
 
-9/15/2024 (morning)
+### 9/15/2024 (morning)
 * AT102ED + 15mm DeLite
 * Jupiter and four moons and 108 Tauri
 * Betelgeuse
@@ -44,7 +48,7 @@
 * Uranus
 * Double Cluster
 
-9/6/2024
+### 9/6/2024
 * AT102ED + 15mm DeLite
 * Clear with no wind or Moon, excellent
 * M13
@@ -54,30 +58,30 @@
 * Sadr
 * Stumbled on M27 while failing to find M71
 
-9/2/2024 (morning)
+### 9/2/2024 (morning)
 * Lumix GX8 + Olympus 75/1.8 (150mm eq)
 * Orion’s Belt and Orion Nebula
 
-8/14/2024 (morning)
+### 8/14/2024 (morning)
 * Lumix GX8 + Olympus 75/1.8 (150mm eq)
 * Jupiter/Mars conjunction
 
-8/11/2024 (morning)
+### 8/11/2024 (morning)
 * Pentax SP 10x50 WP
 * Double Cluster
 
-7/10/2024
+### 7/10/2024
 * AT102ED + 15mm DeLite
 * Moon
 
-7/3/2024
+### 7/3/2024
 * AT102ED + 32mm Plossl
 * dodging puffy clouds and stinky mayflies
 * Arcturus
 * M13
 * M92 (barely through clouds)
 
-6/22/2024
+### 6/22/2024
 * Pentax SP 10x50 WP
 * Prospector Campground
 * before full moon rose over hill
@@ -89,14 +93,14 @@
 * Summer Triangle
 * Sadr with binoculars
 
-4/16/2024
+### 4/16/2024
 * AT70ED + 15mm DeLite
 * Procyon
 * Canis Delta
 * Moon and Proclus Crater ejecta
 * Beehive Cluster
 
-2/1/2024
+### 2/1/2024
 * AT70ED + 15mm DeLite
 * Excellent night with the kids
 * No Moon and not too cold
@@ -106,7 +110,7 @@
 * Double Cluster (C’s favorite)
 * M31
 
-11/9/2023
+### 11/9/2023
 * AT105ED + 15mm DeLite
 * cold
 * Double Cluster
@@ -114,11 +118,11 @@
 * Could not find M33
 * Jupiter
 
-11/9/2023 morning
+### 11/9/2023 morning
 * Lumix GX8 + 75/1.8
 * Moon and Venus
 
-11/6/2023
+### 11/6/2023
 * AT105ED + 32mm Plossl + 15mm DeLite
 * Excellent viewing conditions
 * AirPods and classical music
@@ -127,68 +131,68 @@
 * Jupiter
 * Saturn
 
-10/21/2023
+### 10/21/2023
 * AT105ED + 32mm Plossl + 15mm DeLite
 * International Observe the Moon Night with whole family
 * Moon
 * Saturn with Titan and Rhea
 
-10/19/2023
+### 10/19/2023
 * Chamberlin Observatory tour with whole family
 * Saturn
 
-8/21/2023 (morning)
-* 10x50
+### 8/21/2023 (morning)
+* Pentax SP 10x50 WP
 * Pleiades
 * Jupiter and three moons
 * Starlink chain WNW to ESE near Jupiter about 3s spacing
 * M31
 * Double Cluster
 
-8/15/2023
+### 8/15/2023
 * AT105ED + 15mm DeLite
 * Jupiter and four moons
 * Double Cluster
 * Saturn, Titan, Rhea, and Tethys
 
-8/14/2023
+### 8/14/2023
 * AT105ED + 15mm DeLite
 * Albireo
 * Sadr
 * NGC 6871 (squat trapezoid shape)
 
-8/13/2023 (morning)
-* 10x50
+### 8/13/2023 (morning)
+* Pentax SP 10x50 WP
 * Double Cluster
 * Pleiades
 1 meteor
 
-3/25/2023
-* 10x50
+### 3/25/2023
+* Pentax SP 10x50 WP
 * Pleiades and crescent moon
 * Mirfak
 * Weak double cluster
 * Orion Nebula
 
-2/18/2023
+### 2/18/2023
 * AT70ED + 15mm DeLite
 * Aldebaran
 * Mars
 * Pleiades
 * Double Cluster
 
-1/27/2023
+### 1/27/2023
 * AT70ED + 15mm DeLite
 * Comet C/2022 E3 (ZTF)
 * Double Cluster
 * Orion Nebula
 * Moon
 
-1/17/2023 (morning)
-* 10x50
+### 1/17/2023 (morning)
+* Pentax SP 10x50 WP
 * Comet C/2022 E3 (ZTF)
 
-10/22/2022
+### 10/22/2022
 * AT102ED + 15mm DeLite
 * Insufficient magnification for pictures
 * Jupiter and Ganymede set
@@ -198,41 +202,41 @@
 * Sadr
 * Epsilon Lyrae
 
-9/3/2022 morning
+### 9/3/2022 morning
 * AT102ED + 32mm Plossl + 15mm DeLite
 * Clear, cool morning with no Moon
 * Mars and Aldebraran
 * Double Cluster, better with the 15mm
 * Jupiter and four moons
 
-8/29/2022
+### 8/29/2022
 * AT102ED + 15mm DeLite
 * Saturn and two moons
 * M13
 * Delta Lyrae
 * M57 Ring Nebula
 
-8/27/2022
+### 8/27/2022
 * AT102ED + 32mm Plossl + 15mm DeLite
 * Tarazed
 * Albireo
 * Saturn and five moons
 * Teapot region, M25, M24, and M8 I think
 
-8/17/2022
+### 8/17/2022
 * AT102ED + 15mm DeLite
 * Albireo
 * Sadr
 * M29
 * 31 Cygni
 
-7/17/2022 morning
+### 7/17/2022 morning
 * AT102ED + 15mm DeLite
 * Saturn, Titan, Rhea
 * Jupiter, four moons in tilted pattern
 * Moon
 
-3/1/2022
+### 3/1/2022
 * AT102ED + 32mm Plossl + 15mm DeLite
 * no Moon, no wind, no clouds, mild temp, crime to miss
 * M47
@@ -240,7 +244,7 @@
 * Lambda Orionis
 * Caldwell 50
 
-2/20/2022
+### 2/20/2022
 * AT102ED + 32mm Plossl + 15mm DeLite
 * Orion Nebula
 * Alnilam
@@ -249,62 +253,62 @@
 * M41
 * M47 (gorgeous with 30mm EP)
 
-2/19/2022
+### 2/19/2022
 * AT102ED first light on Stellarvue M2C
 * Orion Nebula
 * Lambda Orionis
 * Pleiades
 
-2/7/2022
+### 2/7/2022
 * AT70ED + 32mm Plossl
 * Orion Nebula
 * Lambda Orionis
 * Pleiades
 * Almost half Moon
 
-1/31/2022
+### 1/31/2022
 * AT70ED + 15mm DeLite
 * M41
 * Orion Nebula
 
-1/11/2022
+### 1/11/2022
 * AT70ED + 15mm DeLite
 * Orion Nebula
 * Moon
 
-11/30/2021 (morning)
+### 11/30/2021 (morning)
 * AT70ED + 15mm DeLite
 * Comet C/2021 A1 Leonard
 * Orion Nebula and Trapezium I think
 * Mizar/Alcor
 
-11/29/2021
+### 11/29/2021
 * AT70ED + 15mm DeLite
 * Albireo (best yet)
 * Jupiter and 4 moons, one on horizon
 * M31
 * h/X Persei
 
-11/25/2021
+### 11/25/2021
 * AT70ED + 15mm DeLite
 * h/X Persei
 * Uranus
 * Pleiades
 
-11/16/2021
+### 11/16/2021
 * AT70ED + 15mm DeLite
 * Jupiter and 4 moons
 * Almost full Moon
 * h/X Persei found with 32mm then 15mm
 
-11/13/2021
+### 11/13/2021
 * AT70ED + 32mm Plossl + 15mm DeLite
 * Sadr
 * Pleiades
 * Copernicus crater
 * Sea of Tranquility
 
-11/12/2021
+### 11/12/2021
 * AT70ED + DeLite 15mm first light
 * Jupiter
 * Saturn
@@ -312,8 +316,8 @@
 * 2/3 Moon
 * Sadr region
 
-11/5/2021
-* 16x80
+### 11/5/2021
+* Orion GiantView ED 16x80
 * Jupiter and 3 moons
 * Saturn and Titan
 * M15
@@ -322,41 +326,41 @@
 * M31
 * Almost M33
 
-11/4/2021
-* 10x50
+### 11/4/2021
+* Pentax SP 10x50 WP
 * Jupiter
 * Saturn
 * Double Cluster
 * Mirfak to Delta Persei
 * Sadr
 
-10/27/2021
-* 16x80
+### 10/27/2021
+* Orion GiantView ED 16x80
 * 1 Arietis
 * M31
 * M15
 * Jupiter
 * X Persei
 
-10/15/2021
-* 127EQ
+### 10/15/2021
+* Celestron Powerseeker 127EQ
 * Jupiter, four moons, Callisto way to left
 * Saturn
 
-10/4/2021
-* 127EQ
+### 10/4/2021
+* Celestron Powerseeker 127EQ
 * Saturn and Titan
 * Jupiter bands and 3 moons
 
-10/3/2021 morning
-* 16x80
+### 10/3/2021 morning
+* Orion GiantView ED 16x80
 * Dark and mostly clear
 * h/X Persei
 * Orion Nebula
 * Debussy
 
-9/15/2021
-* 16x80
+### 9/15/2021
+* Orion GiantView ED 16x80
 * Very clear even with 2/3 moon
 * M31
 * Moon
@@ -365,71 +369,71 @@
 * Sadr
 * 31 Cygni
 
-9/7/2021
-* 16x80
+### 9/7/2021
+* Orion GiantView ED 16x80
 * Jupiter and 4 moons in two pairs
 * Elvis - Are You Lonesome Tonight
 
-8/19/2021
-* 10x50
+### 8/19/2021
+* Pentax SP 10x50 WP
 * 31 Cygni
 
-7/7/2021
-* 16x80
+### 7/7/2021
+* Orion GiantView ED 16x80
 * Sadr
 * M29
 * NGC 7000 region
 
-5/6/2021
+### 5/6/2021
 * Starlink train of 40 satellites to the north
 
-4/8/2021
-* 16x80
+### 4/8/2021
+* Orion GiantView ED 16x80
 * NGC 2244 in Rosette Nebula (nebula not visible)
 
-3/8/2021
-* 10x50
+### 3/8/2021
+* Pentax SP 10x50 WP
 * Vesta
 * M42 Orion Nebula
 * Mars
 * Orion’s Belt
 * M45 Pleiades
 
-3/1/2021
-* 16x80
+### 3/1/2021
+* Orion GiantView ED 16x80
 * Vesta!
 * M42 Orion Nebula
 
-1/19/2021
-* 127EQ
+### 1/19/2021
+* Celestron Powerseeker 127EQ
 * GX8
 * Moon with kids
 * Mars
 * M42 Orion Nebula
 
-1/13/2021
-* 10x50
+### 1/13/2021
+* Pentax SP 10x50 WP
 * Surprisingly clear and warm
 * M42 Orion Nebula
 * Orion’s Belt
 * Castor and Pollux
 * Beautiful areas behind and above Orion
 
-1/10/2021
-* 10x50 with tripod
+### 1/10/2021
+* Pentax SP 10x50 WP with tripod
 * M31 Andromeda
 * M42 Orion Nebula
 * h/X Persei
 
-1/2/2021
-* 16x80
+### 1/2/2021
+* Orion GiantView ED 16x80
 * M31 Andromeda
 * Meissa et al
 * M42 Orion Nebula
 * looked for M33
 
-1/1/2021
-* 10x50 without tripod
+### 1/1/2021
+* Pentax SP 10x50 WP without tripod
 * M31 Andromeda
 * h/X Persei
 * M45 Pleiades
@@ -437,41 +441,41 @@
 * looked for M33
 * looked for Kemble’s Cascade
 
-12/26/2020
-* 10x50 without tripod
+### 12/26/2020
+* Pentax SP 10x50 WP without tripod
 * h/X Persei
 * M31
 * Moon
 
-11/15/2020
-* 16x80
+### 11/15/2020
+* Orion GiantView ED 16x80
 * Uranus!
 * h/X Persei
 * Pleiades
 
-11/13/2020 (morning)
+### 11/13/2020 (morning)
 * Mercury!
 * Venus
 
-11/12/2020
-* 16x80
+### 11/12/2020
+* Orion GiantView ED 16x80
 * h/X Persei
 * Uranus?
 
-11/11/2020
-* 16x80
+### 11/11/2020
+* Orion GiantView ED 16x80
 * NGC 869 h Persei
 * NGC 884 X Persei
 * M31
 * Pleiades
 
-10/29/2020 (morning)
-* 16x80
+### 10/29/2020 (morning)
+* Orion GiantView ED 16x80
 * Mirfak
 * M45 Pleiades
 
-10/21/2020
-* 16x80
+### 10/21/2020
+* Orion GiantView ED 16x80
 * Jupiter and 4 moons
 * Saturn and Titan
 * M31
@@ -480,15 +484,15 @@
 * Alpha/Beta Vulpeculae to
 * Albireo
 
-10/13/2020
-* 16x80
+### 10/13/2020
+* Orion GiantView ED 16x80
 * Enif
 * Saturn and Titan
 * Jupiter
 * M15
 
-10/10/2020
-* 16x80
+### 10/10/2020
+* Orion GiantView ED 16x80
 * M15
 * Bubble Nebula?
 * Jupiter and 3 moons
@@ -499,7 +503,7 @@
 * Alpha/Beta Vulpeculae to
 * Albireo
 
-10/4/2020
+### 10/4/2020
 * Space Station
 * Jupiter and 3 moons
 * Saturn and Titan
@@ -508,17 +512,17 @@
 * Shooting star near Cassiopeia
 * Epsilon Lyrae 1 and 2
 
-9/14/2020 (morning)
+### 9/14/2020 (morning)
 * GX8
 * Moon
 * Venus
 
-9/13/2020
-* 8x42
+### 9/13/2020
+* Nikon Trailblazer 8x42
 * Vega
 
-9/12/2020 (evening)
-* 16x80
+### 9/12/2020 (evening)
+* Orion GiantView ED 16x80
 * Sleeping pad Galaxy rise
 * 2x shooting stars
 * Mizar
@@ -526,44 +530,44 @@
 * Saturn and Titan
 * Albireo
 
-9/12/2020 (morning)
-* 127EQ
+### 9/12/2020 (morning)
+* Celestron Powerseeker 127EQ
 * Mars
-* 16x80
+* Orion GiantView ED 16x80
 * Moon
 * M45 Pleiades
 
-9/11/2020
+### 9/11/2020
 * Jupiter
 * Saturn
 * M71
 * Albireo
 
-9/1/2020 (morning)
-* 8x42
+### 9/1/2020 (morning)
+* Nikon Trailblazer 8x42
 * M45 Pleiades
 * 2019-071Q space debris
 
-8/31/2020 (morning)
-* 16x80
+### 8/31/2020 (morning)
+* Orion GiantView ED 16x80
 * GX8
 * M31 Andromeda
 * Orion
 * M45 Pleiades
 * STARLINK-1497
 
-8/28/2020 (morning)
-* 16x80
+### 8/28/2020 (morning)
+* Orion GiantView ED 16x80
 * M42 Orion Nebula
 * Betelgeuse
 * Rigel
 
-8/22/2020
-* 127EQ
+### 8/22/2020
+* Celestron Powerseeker 127EQ
 * Moon through smoke
 
-8/21/2020 (morning)
-* 16x80
+### 8/21/2020 (morning)
+* Orion GiantView ED 16x80
 * M45 Pleiades
 * Mars
 * Aldebaran
@@ -571,14 +575,14 @@
 * Venus
 * 2 bright satellites in formation
 
-8/16/2020
-* 127EQ
+### 8/16/2020
+* Celestron Powerseeker 127EQ
 * Jupiter bands and four moons
 * Saturn rings
 
-8/8/2020
-* 8x42
-* 16x80
+### 8/8/2020
+* Nikon Trailblazer 8x42
+* Orion GiantView ED 16x80
 * Vega
 * Altair
 * Deneb
@@ -586,8 +590,8 @@
 * Antares
 * Mizar/Alcor
 
-8/7/2020
-* 16x80
+### 8/7/2020
+* Orion GiantView ED 16x80
 * Jupiter
 * Saturn
 * M8
