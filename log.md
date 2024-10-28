@@ -26,6 +26,15 @@
 
 ## Observation Log
 
+### 10/15/2024
+* Pentax SP 10x50 WP
+* Comet A3 with AA, mom, C, and A at home
+
+### 10/14/2024
+* Pentax SP 10x50 WP
+* GX8
+* Comet A3 with AA in RMNP
+
 ### 9/25/2024
 * AT102ED + 15mm DeLite
 * Psi Aquilae
