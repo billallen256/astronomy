@@ -26,6 +26,33 @@
 
 ## Observation Log
 
+### 3/1/2025
+* AT70ED + 4mm DeLite
+* with A and C
+* Very crescent Moon
+* Venus crescent
+* Jupiter and four moons and maybe great red spot
+* Mars
+* Orion Nebula
+* Starlink chain spotted by A directly overhead
+
+### 2/27/2025
+* AT70ED + 4mm DeLite
+* Venus crescent 
+* Jupiter and four moons
+* Pleiades
+* Orion Nebula 
+* Mars
+* Uranus maybe 
+* Theta Tauri
+
+### 2/26/2025 (dusk)
+* AT102ED + 4mm DeLite
+* Venus crescent 
+* Jupiter and four moons
+* Tau Tauri
+* Mars and polar cap maybe
+
 ### 10/15/2024
 * Pentax SP 10x50 WP
 * Comet A3 with AA, mom, C, and A at home
